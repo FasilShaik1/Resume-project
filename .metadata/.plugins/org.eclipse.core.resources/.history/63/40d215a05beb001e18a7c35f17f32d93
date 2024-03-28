@@ -1,0 +1,13 @@
+package maker.service;
+
+import java.util.List;
+
+import maker.model.Resume;
+
+public interface ResumeService {
+    Resume saveResume(Resume resume);
+    Resume getResumeById(Long id);
+    List<Resume> getAllResumes();
+    Resume updateResume(Resume resume);
+    void deleteResume(Long id);
+}

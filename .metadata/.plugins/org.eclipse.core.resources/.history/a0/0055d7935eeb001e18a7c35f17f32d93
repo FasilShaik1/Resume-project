@@ -1,0 +1,17 @@
+package maker.repo;
+
+import java.util.Optional;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import maker.model.Resume;
+
+
+
+@Repository
+public interface ResumeRepository extends JpaRepository<Resume, Integer> {
+
+	Optional<Resume> findById(int id);
+    
+}

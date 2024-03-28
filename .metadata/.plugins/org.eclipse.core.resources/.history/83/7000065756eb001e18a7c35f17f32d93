@@ -1,0 +1,10 @@
+package maker.repo;
+
+import org.springframework.stereotype.Repository;
+
+import maker.model.Resume;
+
+@Repository
+public interface ResumeRepository extends JpaRepository<Resume, Long> {
+    
+}

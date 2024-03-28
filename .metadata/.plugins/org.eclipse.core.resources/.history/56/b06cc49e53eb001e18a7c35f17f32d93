@@ -1,0 +1,26 @@
+package maker.model;
+
+
+import jakarta.annotation.Generated;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+
+@Entity
+public class Resume {
+
+    @Id
+    @Generated(strategy = GenerationType.IDENTITY, value = { "" })
+    private Long id;
+
+    private String name;
+    private String email;
+    private String phone;
+    private String address;
+    private String objective;
+    private String education;
+    private String experience;
+    // Add more fields as needed
+
+    // Constructors, getters, and setters...
+}

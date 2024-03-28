@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="maker.repo.ResumeRepository"/>
+    <fullyQualifiedTypeName name="maker.model.Resume"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.domain.EntityScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="maker.model.ResumeModel"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.itextpdf.layout.properties.TextAlignment"/>
+    <fullyQualifiedTypeName name="com.itextpdf.kernel.font.PdfFont"/>
+    <fullyQualifiedTypeName name="com.itextpdf.kernel.font.PdfFontFactory"/>
+    <fullyQualifiedTypeName name="com.itextpdf.layout.element.Text"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat.Style"/>
+    <fullyQualifiedTypeName name="com.itextpdf.io.font.constants.StandardFonts"/>
+    <fullyQualifiedTypeName name="com.itextpdf.layout.element.Table"/>
+    <fullyQualifiedTypeName name="com.itextpdf.layout.properties.UnitValue"/>
+    <fullyQualifiedTypeName name="com.itextpdf.layout.element.Cell"/>
+</qualifiedTypeNameHistroy>
